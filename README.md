@@ -11,7 +11,7 @@
 </div>
 
 <!-- ABOUT -->
-## <img src="assets/icons/about.png" width="28"> &nbsp;About Me
+## About Me
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzammil309&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="320" />
 
@@ -30,43 +30,22 @@ I specialize in creating **modern, SEO-optimized digital experiences** using Nex
 ---
 
 <!-- TECH STACK -->
-## <img src="assets/icons/tech_stack.png" width="28"> &nbsp;Tech Stack
+<div align="center">
 
-<table>
-<tr>
-<td valign="top" width="33%">
+## Tech Stack
 
-### Frontend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind,js,ts&perline=3" />
-</p>
+| Frontend | Backend | Tools & CMS |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind,js,ts&perline=3" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,firebase,docker&perline=3" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,wordpress,vercel&perline=3" /> |
 
-</td>
-<td valign="top" width="33%">
-
-### Backend
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,firebase,docker&perline=3" />
-</p>
-
-</td>
-<td valign="top" width="33%">
-
-### Tools & CMS
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,wordpress,vercel&perline=3" />
-</p>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <!-- SPECIALIZATIONS -->
-## <img src="assets/icons/specializations.png" width="28"> &nbsp;Specializations
-
 <div align="center">
+
+## Specializations
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -91,12 +70,12 @@ I specialize in creating **modern, SEO-optimized digital experiences** using Nex
 
 
 <!-- WHAT I BUILD -->
-## <img src="assets/icons/what_i_build.png" width="28"> &nbsp;What I Build
-
 <div align="center">
 
-| 🌐 Web Applications | 🛒 eCommerce | ⚡ Performance |
-|:---:|:---:|:---:|
+## What I Build
+
+| Web Applications | eCommerce | Performance |
+| :---: | :---: | :---: |
 | Scalable SaaS platforms | Shopify & WooCommerce | Core Web Vitals |
 | Headless CMS solutions | Custom storefronts | Technical SEO |
 | API-driven architectures | Payment integrations | Schema Markup |
@@ -106,17 +85,13 @@ I specialize in creating **modern, SEO-optimized digital experiences** using Nex
 ---
 
 <!-- CONNECT -->
-## <img src="assets/icons/connect.png" width="28"> &nbsp;Let's Connect
-
 <div align="center">
+
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzammil_Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzammil-ahmed-903911263/)
 [![Facebook](https://img.shields.io/badge/Facebook-Muzammil_Ahmed-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/muzammil.ahmed.4)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Muzammil_Ahmed-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muzammil309.github.io/portfolio/)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Muzammil309&style=for-the-badge&color=161b22&label=PROFILE+VIEWS&abbreviated=true" />
 
 </div>
 
