@@ -19,11 +19,11 @@ Full Stack Developer with **3+ years** of experience building scalable, high-per
 
 I specialize in creating **modern, SEO-optimized digital experiences** using Next.js, React, Astro, and TypeScript — delivering clean, maintainable applications that exceed business objectives.
 
-- 🔭 &nbsp;Building scalable **SaaS & web applications**
-- 🛒 &nbsp;Developing modern **eCommerce solutions**
-- 🤖 &nbsp;Exploring **AI-assisted development** workflows
-- 🌱 &nbsp;Expanding **cloud & DevOps** expertise
-- 💼 &nbsp;Open to **collaboration & freelance** opportunities
+-  &nbsp;Building scalable **SaaS & web applications**
+-  &nbsp;Developing modern **eCommerce solutions**
+-  &nbsp;Exploring **AI-assisted development** workflows
+-  &nbsp;Expanding **cloud & DevOps** expertise
+-  &nbsp;Open to **collaboration & freelance** opportunities
 
 <br clear="both" />
 
