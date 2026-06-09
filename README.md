@@ -13,7 +13,7 @@
 <!-- ABOUT -->
 ## About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzammil309&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="320" />
+
 
 Full Stack Developer with **3+ years** of experience building scalable, high-performance web applications, eCommerce solutions, and CMS platforms.
 
